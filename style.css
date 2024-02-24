@@ -1,1 +1,38 @@
+header{
+background-color: darkcyan;
+color: darkgrey;
+padding: 28px;
+font-size: 20px;
+font-family: Times New Roman;
+}
 
+nav{
+  background-color: lightcyan;
+  color: darkgrey;
+  padding: 10px;
+}
+nav ul{
+  list-style-type:none;
+  margin: 0;
+padding:0;
+font-size:18;
+font-family: georgia;
+}
+nav li{
+  display :inline-block;
+  margin-right: 20px;
+}
+p{
+  
+font-size: 14px;
+font-family: serif;
+}
+h2{
+  font-size:20px;
+  font-family: georgia;
+}
+  footer{
+    background-color: darkcyan;
+    color:darkgrey;
+    text-align:center;
+  }
